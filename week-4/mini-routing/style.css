@@ -1,0 +1,17 @@
+html, body{
+  margin:0;
+  padding:0;
+  width:100%;
+}
+.menu{
+  width: 200px;
+  float: left;
+  heigh:100%;
+  background: #e2e2e2;
+}
+.view-container{
+  text-align: center;
+}
+.view-container {
+  margin-top: 0;
+}
